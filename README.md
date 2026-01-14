@@ -110,10 +110,10 @@ GitHub: Waqo-Dida-Godana
 This project serves as the foundation for building a full-featured Airbnb-style listing app.
 It demonstrates:
 
-Proper Next.js project setup
+Proper Next.js project setup.
 
-Clean TypeScript integration
+Clean TypeScript integration.
 
-Responsive UI with Tailwind CSS
+Responsive UI with Tailwind CSS.
 
-Maintainable and scalable component-based architecture
+Maintainable and scalable component-based architecture.
