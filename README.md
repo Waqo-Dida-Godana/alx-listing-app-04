@@ -3,7 +3,10 @@
 ## 📘 Overview
 The **ALX Listing App** is an Airbnb-style project designed to help learners understand how to build and structure scalable frontend applications using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-This milestone focuses on setting up the **project foundation**, including folder structure, TypeScript integration, reusable components, and asset management.
+This milestone focuses on deploying the app to a cloud hosting platform for public accessibility.
+
+## 🌐 Live Demo
+The app is deployed and accessible at: [https://alx-listing-app-didas-projects-46c54c54.vercel.app](https://alx-listing-app-didas-projects-46c54c54.vercel.app)
 
 ---
 
